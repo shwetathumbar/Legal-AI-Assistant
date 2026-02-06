@@ -1,0 +1,10 @@
+streamlit
+spacy
+nltk
+pdfplumber
+python-docx
+langdetect
+googletrans==4.0.0rc1
+openai
+reportlab
+cryptography
